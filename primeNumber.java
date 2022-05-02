@@ -12,6 +12,7 @@ public class primeNumber {
                 break;
             }
         }
+        //count ==0
         if( count==0){
             System.out.println("Prime");
             System.out.println(count);
@@ -22,3 +23,17 @@ public class primeNumber {
 
     }
 }
+
+
+//Pseudocode
+//start
+//input num
+//c= 2
+//while num <c
+    //if num % c ==0
+       //output  "not prime "
+    //c = c+1
+//end while
+//output  "prime number"
+//exit
+
