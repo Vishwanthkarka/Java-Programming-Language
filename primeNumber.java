@@ -60,6 +60,7 @@
 //if we use sqre 15,31,560
 
 
+// importing the lang package
 import java.lang.*;
 
 public class primeNumber {
